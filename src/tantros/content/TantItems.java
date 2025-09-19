@@ -1,6 +1,6 @@
 package tantros;
 
-import arc.graphic.*;
+import arc.graphics.*;
 import arc.struct.*;
 import mindustry.content.items;
 import mindustry.type.*;
