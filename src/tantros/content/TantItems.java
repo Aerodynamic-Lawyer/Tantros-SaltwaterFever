@@ -2,7 +2,7 @@ package tantros;
 
 import arc.graphics.*;
 import arc.struct.*;
-import mindustry.content.items;
+import mindustry.content.Items;
 import mindustry.type.*;
 
 public class TantItems {
