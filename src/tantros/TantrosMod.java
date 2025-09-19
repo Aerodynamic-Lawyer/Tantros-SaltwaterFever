@@ -1,4 +1,4 @@
-package example;
+package tantros;
 
 import arc.*;
 import arc.util.*;
