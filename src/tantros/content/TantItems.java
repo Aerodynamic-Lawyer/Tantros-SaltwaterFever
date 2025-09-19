@@ -1,4 +1,4 @@
-package tantros 
+package tantros;
 
 import arc.graphic.*;
 import arc.struct.*;
@@ -22,7 +22,7 @@ public class TantItems {
             cost = 0.5f;
         }};
 
-        tantItems.addAll(
+        TantItems.addAll(
              cobalt, coralchunk   
         );
     }
