@@ -31,6 +31,7 @@ public class TantrosMod extends Mod{
     @Override
     public void loadContent(){
         Log.info("Loading some example content.");
+        TantItems.load()
     }
 
 }
